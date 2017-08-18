@@ -1,6 +1,6 @@
 void main()
 {
-for(int x=0;x<200;x+=2)
+for(int x=0;x<1000;x+=2)
  {
  printf ("Hola mundo");
  int i = 10;
